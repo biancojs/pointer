@@ -54,7 +54,7 @@ import { add } from 'bianco.events'
 add(window, 'touchmove mousemove', function(event) {
   const { x, y } = position(event)
 
-  console.log('Your pointer y is=, y, 'your pointer x is', x)
+  console.log('Your pointer y is=', y, 'your pointer x is', x)
 })
 ```
 
