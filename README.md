@@ -16,17 +16,11 @@ const { x, y } = pointer.position(touchEvent)
 ```
 
 [travis-image]: https://img.shields.io/travis/biancojs/@.svg?style=flat-square
-
 [travis-url]: https://travis-ci.org/biancojs/pointer
-
 [license-image]: http://img.shields.io/badge/license-MIT-000000.svg?style=flat-square
-
 [license-url]: LICENSE.txt
-
 [npm-version-image]: http://img.shields.io/npm/v/bianco.pointer.svg?style=flat-square
-
 [npm-downloads-image]: http://img.shields.io/npm/dm/bianco.pointer.svg?style=flat-square
-
 [npm-url]: https://npmjs.org/package/bianco.pointer
 
 ## API
