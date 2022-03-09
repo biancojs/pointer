@@ -1,7 +1,6 @@
 # bianco.pointer
 
-[![Build Status][travis-image]][travis-url]
-
+[![Build Status][ci-image]][ci-url]
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
 [![MIT License][license-image]][license-url]
@@ -15,8 +14,8 @@ import pointer from 'bianco.pointer'
 const { x, y } = pointer.position(touchEvent)
 ```
 
-[travis-image]: https://img.shields.io/travis/biancojs/pointer.svg?style=flat-square
-[travis-url]: https://travis-ci.org/biancojs/pointer
+[ci-image]:https://img.shields.io/github/workflow/status/biancojs/pointer/test?style=flat-square
+[ci-url]:https://github.com/biancojs/pointer/actions
 [license-image]: http://img.shields.io/badge/license-MIT-000000.svg?style=flat-square
 [license-url]: LICENSE.txt
 [npm-version-image]: http://img.shields.io/npm/v/bianco.pointer.svg?style=flat-square

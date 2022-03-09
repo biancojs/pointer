@@ -1,0 +1,1 @@
+export function position<T extends Event>(event: T): { x: number, y: number }
