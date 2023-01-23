@@ -14,7 +14,7 @@ import pointer from 'bianco.pointer'
 const { x, y } = pointer.position(touchEvent)
 ```
 
-[ci-image]:https://img.shields.io/github/workflow/status/biancojs/pointer/test?style=flat-square
+[ci-image]:https://img.shields.io/github/actions/workflow/status/biancojs/pointer/test.yml?style=flat-square
 [ci-url]:https://github.com/biancojs/pointer/actions
 [license-image]: http://img.shields.io/badge/license-MIT-000000.svg?style=flat-square
 [license-url]: LICENSE.txt
